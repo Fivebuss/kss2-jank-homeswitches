@@ -10,5 +10,5 @@ The camera displacement bug found when you switch back to the space center scene
 A quicksave and quickload from an active vessel scene fixes this temporarily it seems.
 
 ## Currently supported: 
-Alva
-Xolum (In progress)
+* Alva,
+* Xolum (In progress)
