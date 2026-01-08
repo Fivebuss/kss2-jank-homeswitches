@@ -9,6 +9,10 @@ Then add a line to KSS2Settings.cfg 'homeSwitch = name' where name is the name o
 The camera displacement bug found when you switch back to the space center scene from a different one is not solvable, atleast I do not know how. 
 A quicksave and quickload from an active vessel scene fixes this temporarily it seems.
 
+### Note that the usual homeswitch bugs are still present for the KSC scene:
+
+Permanent nighttime, scatterer bugs, ambience issues, weird loading, etc
+
 ## Currently supported: 
 * Alva
-* Xolum (Parallax broken around KSC and a few other things)
+* Xolem
